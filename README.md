@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Oluwatobi Damilare Okanlawon</h1>
-<h3 align="center">A highly motivated Mobile Application Developer with extensive knowledge and hands-on experience working on Smartphone Applications using flutter. Proven ability to understand product requirements, and design proof of concept prototypes. Experience with several APIs for Android applications such as Google Maps, Google Places, Facebook, etc.
+<h3 align="center">Passionate mobile developer with expertise in creating cross-platform applications using flutter. Proficient in mobile development frameworks and languages. Strong problem-solving and collaboration skills to deliver high-quality mobile solutions. Dedicated to staying up-to-date with the latest industry trends..
 </h3>
 
 <p align="left"> <a href="https://twitter.com/bishop_toxic" target="blank"><img src="https://img.shields.io/twitter/follow/bishop_toxic?logo=twitter&style=for-the-badge" alt="bishop_toxic" /></a> </p>
